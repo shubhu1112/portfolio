@@ -295,6 +295,15 @@ const App = () => {
         >
           <FaLinkedin />
         </a>
+          <a
+    href="https://drive.google.com/file/d/1JNWhUPl3TS6u4luh-_C-F0L7RxHArjBf/preview"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="hover:scale-110 transition text-white"
+    title="View Resume"
+  >
+    <FaFileAlt />
+  </a>
 
         <button
           onClick={() => setShowModal(true)}
