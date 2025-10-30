@@ -66,7 +66,7 @@ const App = () => {
               <FaLinkedin />
             </a>
             <a
-              href="/resume.pdf"
+              href="https://drive.google.com/file/d/1JNWhUPl3TS6u4luh-_C-F0L7RxHArjBf/preview"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:scale-110 transition"
